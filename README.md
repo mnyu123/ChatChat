@@ -1,2 +1,2 @@
 # ChatChat
-Caht
+pocketbase 적용 안됨 왜?
